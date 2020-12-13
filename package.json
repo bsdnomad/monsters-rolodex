@@ -30,5 +30,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.4",
+    "eslint-plugin-jest": "^24.0.0",
+    "eslint-plugin-react-redux": "^3.3.0",
+    "react-test-renderer": "^16.13.1"
   }
 }
